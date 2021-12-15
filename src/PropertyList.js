@@ -16,7 +16,8 @@ function PropertyList({data,checkProperty}){
                    {data.map(value=>{
                        
                      return  <tr key={value.id}>
-                           <td><input type="checkbox" checked={value.isChecked} onChange={()=>checkProperty(value.id,!value.isChecked)}/></td>
+                           <td><input type="checkbox" checked={value.isChecked} 
+                           onChange={()=>checkProperty(value.id,!value.isChecked)}/></td>
                            <td>{value.name}</td>
                            <td>{value.des}</td>
                            <td>{value.size}</td>
