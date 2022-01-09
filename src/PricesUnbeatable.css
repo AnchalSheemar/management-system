@@ -1,0 +1,78 @@
+
+
+.price-Main-div {
+    background-color: #20666e;
+    text-align: center;
+   
+    overflow: auto;
+    margin-bottom: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100%;
+    font-weight: bold;
+    @media only screen and(min-width :768px){
+      width: 75%;
+      
+    }
+    @media only screen and(min-width :992px){
+      width: 50%;
+    
+  }
+}
+  .price-h1,.price-p{
+    color:white;
+    margin-top: 50px;
+  }
+  .monthly-div{
+    background-color:white;
+    float: left;
+    width:22%;
+    height: 300px;
+   margin-top: 50px;
+   margin-left: 200px;
+   margin-bottom: 50px;
+  }
+  
+  .annual-div{
+    background-color:white;
+    float: left;
+    width: 22%;
+   height: 300px;
+   margin-top: 50px;
+   margin-left: 25px;
+   margin-right: 20px;
+   margin-bottom: 50px;
+   
+  }
+  .lifeTime-div{
+    background-color: white;
+    float: right;
+    width: 22%;
+    height: 300px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .btn1,.btn2,.btn3{
+    color: white;
+    background-color: #20666e;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50px;
+    font-size: large;
+    font-weight: bold;
+  
+  }
+  .monthly-h,.annual-h,.lifeTime-h{
+    color: #20666e;
+    padding: 0%;
+  }
+  p{
+    font-size: large;
+    
+  }
+  .save-btn{
+    background-color: red;
+    color: white;
+    
+  }

@@ -1,0 +1,18 @@
+.askedQuestion-main-div{
+    background-color: #d3e1e4;
+    
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.ask-ques-div{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.h3{
+    color:#20666e;
+}

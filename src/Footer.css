@@ -1,0 +1,58 @@
+.footer-main-div{
+    background-color: aquamarine;
+    font-weight: bolder;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+.footer-div1{
+    float: left;
+    width: 50%;
+    background-color:#20666e;
+    height: 280px;
+    
+}
+.footer-div2{
+    background-color: #33a3af;
+    float: right;
+    width: 50%;
+    height: 280px;
+}
+.div-01{
+    float: left;
+    width: 20%;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.div-02{
+    float: right;
+    width: 55%;
+   color: aliceblue;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.div-001{
+    float: left;
+    width: 30%;
+    color: white;
+    margin-left: 50px;
+    font-weight: bold;
+    
+}
+.div-002{
+    float: right;
+    width: 55%;
+   color: aliceblue;
+  
+    
+}
+.div-010{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.h11{
+color: black;
+}
